@@ -5,7 +5,17 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Low_Poly_Grenade/grenade.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Low_Poly_Grenade/grunge.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Low_Poly_Grenade/grunge1.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Low_Poly_Grenade/Grunge12.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Low_Poly_Grenade/Metal.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Megascans/3D/Wooden_Ammo_Box_uddkcfgqx/Low/MI_uddkcfgqx.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Megascans/3D/Wooden_Ammo_Box_uddkcfgqx/Low/SM_uddkcfgqx_tier_3.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Megascans/3D/Wooden_Ammo_Box_uddkcfgqx/Low/T_uddkcfgqx_1k_B.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Megascans/3D/Wooden_Ammo_Box_uddkcfgqx/Low/T_uddkcfgqx_1k_N.uasset",
+				"C:/Users/obikf/Documents/Unreal Projects/Lab/MyProject2/Content/Fab/Megascans/3D/Wooden_Ammo_Box_uddkcfgqx/Low/T_uddkcfgqx_1k_ORM.uasset"
 			]
 		}
 	]
